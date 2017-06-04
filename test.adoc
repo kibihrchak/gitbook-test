@@ -9,15 +9,19 @@ v20.3
 verbatim text
 ----
 
+Testing out include:
+
 ----
 include::{ad-dir}/test.txt[]
 ----
-----
-\include::./asciidoc-files/test.txt[]
-----
-----
-include::test.txt[]
-----
+
+Printing AsciiDoc safe mode:
+
+|===
+|Parameter |Value
+|Name | `{safe-mode-name}`
+|Level | `{safe-mode-level}`
+|===
 
 Some paragraph.
 
