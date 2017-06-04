@@ -1,0 +1,12 @@
+//  vim: set ft=asciidoc spell tabstop=4 shiftwidth=4 tw=72:
+
+= AsciiDoc Article
+Marko Oklobdžija <email@email.com>
+v20.3
+
+----
+verbatim text
+----
+
+Some paragraph.
+
