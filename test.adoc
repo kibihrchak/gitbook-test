@@ -4,6 +4,7 @@
 Marko Oklobdžija <email@email.com>
 v20.3
 :ad-dir: ./asciidoc-files
+:source-highlighter: coderay
 
 ----
 verbatim text
@@ -24,4 +25,13 @@ Printing AsciiDoc safe mode:
 |===
 
 Some paragraph.
+
+
+[source,c]
+----
+void main(int argc, const char* argv[])
+{
+    return 0;
+}
+----
 
