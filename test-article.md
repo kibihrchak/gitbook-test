@@ -8,7 +8,7 @@ And a table:
 
 | Heading 1 | Heading 2 |
 | :--- | :--- |
-| Cell1,1 | Cell1,2 |
+| Cell 1,1 | Cell 1,2 |
 
 
 
