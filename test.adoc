@@ -11,6 +11,7 @@ verbatim text
 
 ----
 include::{ad-dir}/test.txt[]
+\include::./asciidoc-files/test.txt[]
 ----
 
 Some paragraph.
