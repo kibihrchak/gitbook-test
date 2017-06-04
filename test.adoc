@@ -3,9 +3,14 @@
 = AsciiDoc Article
 Marko Oklobdžija <email@email.com>
 v20.3
+:ad-dir: ./asciidoc-files
 
 ----
 verbatim text
+----
+
+----
+include::{ad-dir}/test.txt[]
 ----
 
 Some paragraph.
