@@ -29,9 +29,9 @@ Some paragraph.
 
 [source,c]
 ----
-void main(int argc, const char* argv[]) /* <1> */
+void main(int argc, const char* argv[]) // <1>
 {
-    return 0; /* <2> */
+    return 0; // <2>
 }
 ----
 
