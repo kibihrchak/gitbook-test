@@ -10,6 +10,13 @@ v20.3
 verbatim text
 ----
 
+ifdef::env-github[]
+This content is shown on GitHub.
+endif::[]
+ifndef::env-github[]
+This content is *NOT* shown on GitHub.
+endif::[]
+
 Testing out include:
 
 ----
